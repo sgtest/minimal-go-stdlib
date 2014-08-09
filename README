@@ -1,0 +1,4 @@
+This repository is a minimal representative example of the Go stdlib. It is used
+to test srclib-go's (https://sourcegraph.com/sourcegraph/srclib-go) analysis of
+the Go standard library, without needing to download and analyze the full
+stdlib.
