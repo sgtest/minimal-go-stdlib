@@ -7,6 +7,7 @@ import "dummy1"
 // the stdlib adds pkgs or definitions, we'll analyze them instead of just
 // analyzing the code in GOROOT.
 
+// MyFunc documentation should be found.
 func MyFunc() dummy1.MyType {
 	return dummy1.MyType(123)
 }
