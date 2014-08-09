@@ -1,0 +1,5 @@
+{
+  "Config": {
+    "GoBaseImportPath:src/pkg": "."
+  }
+}
