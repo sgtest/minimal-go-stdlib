@@ -1,5 +1,5 @@
 {
   "Config": {
-    "GoBaseImportPath:src/pkg": "."
+    "GOROOT": "."
   }
 }
